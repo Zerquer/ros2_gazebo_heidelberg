@@ -9,7 +9,7 @@
 
 <br />
 
-![](images/heidelberg3.png)
+![](images/Castle.jpg)
 
 <br />
 
@@ -27,6 +27,7 @@ ros2 launch ros2_gazebo_heidelberg heidelberg_gazebo.launch.py
 
 Edit with [**MapsModelsImporter**](https://github.com/eliemichel/MapsModelsImporter)
 
+![](images/heidelberg3.png)
 
 <br />
 <br />
